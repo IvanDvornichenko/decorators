@@ -1,0 +1,2 @@
+Kamaelia 0.6.0 - Выпущен: 19 окт. 2008 г. - pip install Kamaelia
+newsreader 0.3.0 - Выпущен: 14 апр. 2019 г. - pip install newsreader
